@@ -1,0 +1,7 @@
+ui_icon.png
+size:341,191
+filter:Linear,Linear
+ui_player_block
+bounds:178,5,158,181
+ui_player_crit
+bounds:5,5,168,181

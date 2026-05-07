@@ -1,0 +1,9 @@
+ui_special.png
+size:475,191
+filter:Linear,Linear
+logo_degamex
+bounds:341,57,129,129
+ui_player_block
+bounds:178,5,158,181
+ui_player_crit
+bounds:5,5,168,181

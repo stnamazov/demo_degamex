@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    p {
+      margin-bottom: 10px;
+    }
+    .animation-absolute-fly {
+      animation: fly 2s ease-in-out infinite alternate;
+    }
+}
+
+@keyframes absolute-fly{
+  0%{
+    top: 0;
+  }
+  100%{
+    top: -50px;
+  }
+}

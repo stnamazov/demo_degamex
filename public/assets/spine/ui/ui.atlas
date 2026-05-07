@@ -1,0 +1,17 @@
+ui.png
+size:318,558
+filter:Linear,Linear
+ui_top_add
+bounds:2,520,134,36
+ui_top_player
+bounds:2,290,310,94
+ui_top_screen
+bounds:2,2,302,286
+wire_p1_top
+bounds:192,480,94,76
+wire_p1_top_add
+bounds:174,488,16,68
+wire_p2_top
+bounds:2,386,314,92
+wire_p2_top_add
+bounds:138,499,34,57

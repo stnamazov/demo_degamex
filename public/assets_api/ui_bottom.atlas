@@ -1,0 +1,15 @@
+ui_bottom.png
+size:995,678
+filter:Linear,Linear
+spells
+bounds:2,569,914,107
+ui_bottom
+bounds:2,2,991,375
+ui_bottom_small
+bounds:602,379,176,188
+ui_damage_val_screen
+bounds:2,433,268,134
+ui_player_block
+bounds:272,386,158,181
+ui_player_crit
+bounds:432,386,168,181

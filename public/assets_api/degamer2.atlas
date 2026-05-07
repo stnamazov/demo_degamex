@@ -1,0 +1,15 @@
+degamer2.png
+size:1714,1159
+filter:Linear,Linear
+body
+bounds:2,305,854,852
+hand_l_close
+bounds:2,3,301,300
+hand_l_open
+bounds:608,2,300,301
+hand_r_close
+bounds:305,3,301,300
+hand_r_open
+bounds:910,3,300,300
+head
+bounds:858,305,854,852

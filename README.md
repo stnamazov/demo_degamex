@@ -3,6 +3,10 @@
 This repository contains a **self‑contained demo build** of the DeGameX frontend.
 It runs **fully locally** and simulates a connected user: **no wallet**, **no backend**, **no smart contracts**.
 
+## Live demo
+
+- [`demo-degamex.onrender.com`](https://demo-degamex.onrender.com/)
+
 ## What works in demo
 
 - **Arena**: opponent matchmaking simulation, RPS, attack sequence, win/lose result, lootbox drops

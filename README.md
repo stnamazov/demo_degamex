@@ -38,19 +38,3 @@ npm run dev
 npm run build
 npm run preview
 ```
-
-## Environment variables
-
-The app is designed to work without external services. The `.env` can be minimal:
-
-```env
-VITE_DEMO_MODE=true
-VITE_API_URL=
-VITE_FRONTEND_URL=
-VITE_DEGAMEX_CDN=
-```
-
-## Notes
-
-- Domain references were migrated from `degamex.com` to `degamex.demo`.
-- Web3/wallet connectivity is intentionally removed from the demo UX.
